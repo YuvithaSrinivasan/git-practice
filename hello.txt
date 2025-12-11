@@ -1,4 +1,4 @@
-hello frnd this is my first git world
+this line is changed from featureB branch
 
 this is my second update
 
