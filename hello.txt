@@ -1,4 +1,4 @@
-this line chaned from featureA BRANCH
+BOTH A AND B ARE MERGED SUCCESFULLY
 this is my second update
 
 hi yuvitha !!!!!!!!! this is your git folder..................
