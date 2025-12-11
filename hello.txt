@@ -1,5 +1,4 @@
-hello frnd this is my first git world
-
+this line chaned from featureA BRANCH
 this is my second update
 
 hi yuvitha !!!!!!!!! this is your git folder..................
